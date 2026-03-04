@@ -1,2 +1,0 @@
-# Diafa Frontend
-React Project
